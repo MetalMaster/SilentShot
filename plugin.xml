@@ -44,6 +44,6 @@
       </feature>
     </config-file>
 
-    <source-file src="platforms/android/src/biz/incoding/silentshot/silentshot.java" target-dir="platforms/android/src/biz/incoding/silentshot"/>
+    <source-file src="platforms/android/src/biz/incoding/silentshot/SilentShot.java" target-dir="platforms/android/src/biz/incoding/silentshot"/>
   </platform>
 </plugin>
